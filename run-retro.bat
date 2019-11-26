@@ -1,0 +1,3 @@
+@echo off
+title Launching Retro...
+retro-windows gdf\retro.gdf
